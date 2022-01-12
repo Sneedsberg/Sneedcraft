@@ -4,12 +4,16 @@
 <h4 align="center">Here are a few recipes you should know when using the mod</h4>
 <hr>
 <h4 align="center">
+AR-15
 <img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/ar15%20recipe.png">
 <hr>
+5.56 mm
 <img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/bullet%20recipe.png">
 <hr>
+Spear
 <img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/spear%20recipe.png">
 <hr>
+Throwing Spear
 <img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/throwing%20spear%20recipe.png">
 <hr>
 </h4>
