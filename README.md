@@ -19,7 +19,7 @@ Spear
 Throwing Spear
 <hr>
 <img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/throwing%20spear%20recipe.png">
-<hr>
+
 Known Issues
 - Muzzle Blast doesnt always excute at the front of the weapon
 - Slave Ships will flood on chunk generation
