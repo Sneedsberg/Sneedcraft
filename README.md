@@ -6,10 +6,10 @@
 <h4 align="center">
 <img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/ar15%20recipe.png">
 <hr>
-<img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/ar15%20recipe.png">
+<img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/bullet%20recipe.png">
 <hr>
-<img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/ar15%20recipe.png">
+<img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/spear%20recipe.png">
 <hr>
-<img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/ar15%20recipe.png">
+<img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/throwing%20spear%20recipe.png">
 <hr>
 </h4>
