@@ -3,5 +3,5 @@
 <h2 align="center"><a href="https://github.com/Sneedsberg/Basedcraft/releases/download/Release/Sneedsberg.jar" download>Click to Download</a></h2>
 <h4 align="center">Here are a few recipes you should know when using the mod</h4>
 <hr>
-<img src="https://raw.githubusercontent.com/">
+<img src="https://raw.githubusercontent.com/Sneedsberg/Basedcraft/main/ar15%20recipe.png">
 <hr>
